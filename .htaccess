@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /infodpTienda/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)$ index.php?uri=$1 [QSA,L]
+
+## Deshabilita los indices lo que impide acceder a otras carpetas
+Options -Indexes

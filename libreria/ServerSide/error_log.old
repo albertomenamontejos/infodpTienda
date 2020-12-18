@@ -1,0 +1,826 @@
+[11-Dec-2020 19:49:50 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 19:49:50 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 19:56:58 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 19:56:58 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 19:57:35 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 19:57:35 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:01:13 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:01:13 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:02:17 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:02:17 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:12:29 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:12:29 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:12:34 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:12:34 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:12:39 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:12:39 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:13:02 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:13:02 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:13:28 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:13:28 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:13:33 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:13:33 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:13:40 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:13:40 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:14:06 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:14:06 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:14:11 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:14:11 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:15:43 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:15:43 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:20:30 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:20:30 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:20:59 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:20:59 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:28:34 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:28:34 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:29:05 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:29:05 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:29:35 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:29:35 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 20:30:02 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 20:30:02 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:32:48 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:32:48 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:33:51 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:33:51 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:36:00 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:36:00 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:36:42 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:36:42 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:37:56 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:37:56 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:38:15 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:38:15 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideGeneros.php(3): TableData->get('generos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:38:39 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:38:39 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideGeneros.php(3): TableData->get('generos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:39:12 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:39:12 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideGeneros.php(3): TableData->get('generos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:39:24 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:39:24 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideCategorias.php(3): TableData->get('categorias', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:39:43 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:39:43 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideEstilos.php(3): TableData->get('estilos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:42:36 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:42:36 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:42:52 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:42:52 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:43:07 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:43:07 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:43:44 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:43:44 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:45:27 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:45:27 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[11-Dec-2020 22:46:29 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[11-Dec-2020 22:46:29 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 01:30:30 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 01:30:30 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 01:31:50 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 01:31:50 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 01:33:55 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 01:33:55 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 01:34:17 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 01:34:17 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 01:34:32 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 01:34:32 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 01:35:20 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 01:35:20 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 01:35:37 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 01:35:37 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 01:36:00 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 01:36:00 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 01:36:09 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 01:36:09 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideGeneros.php(3): TableData->get('generos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 01:36:14 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 01:36:14 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideCategorias.php(3): TableData->get('categorias', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 16:47:38 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 16:47:38 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 16:55:13 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 16:55:13 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 20:06:51 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 20:06:51 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 20:22:20 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 20:22:20 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 20:28:49 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 20:28:49 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 20:28:56 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 20:28:56 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 20:57:24 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 20:57:24 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 20:58:44 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 20:58:44 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:04:38 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:04:38 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:04:50 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:04:50 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideCategorias.php(3): TableData->get('categorias', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:05:00 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:05:00 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideEstilos.php(3): TableData->get('estilos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:05:05 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:05:05 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideMarcas.php(3): TableData->get('marcas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:05:10 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:05:10 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideTalles.php(3): TableData->get('vista_talles', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:05:54 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:05:54 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideGeneros.php(3): TableData->get('generos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:09:15 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:09:15 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideControlStock.php(3): TableData->get('vista_controlst...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:09:23 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:09:23 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideGeneros.php(3): TableData->get('generos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:09:27 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:09:27 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideEstilos.php(3): TableData->get('estilos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:09:32 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:09:32 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideCategorias.php(3): TableData->get('categorias', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:35:11 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:35:11 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideCategorias.php(3): TableData->get('categorias', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:43:30 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:43:30 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:47:17 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:47:17 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideControlStock.php(3): TableData->get('vista_controlst...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:51:50 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:51:50 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideControlStock.php(3): TableData->get('vista_controlst...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:52:03 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:52:03 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideControlStock.php(3): TableData->get('vista_controlst...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:52:37 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:52:37 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideControlStock.php(3): TableData->get('vista_controlst...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:52:55 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:52:55 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideControlStock.php(3): TableData->get('vista_controlst...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:55:00 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:55:00 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideGeneros.php(3): TableData->get('generos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:55:15 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:55:15 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideCategorias.php(3): TableData->get('categorias', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:57:24 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:57:24 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideControlStock.php(3): TableData->get('vista_controlst...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 22:57:31 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 22:57:31 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideControlStock.php(3): TableData->get('vista_controlst...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 23:02:07 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 23:02:07 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideControlStock.php(3): TableData->get('vista_controlst...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 23:08:30 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 23:08:30 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideExistencias.php(3): TableData->get('vista_existenci...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 23:08:40 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 23:08:40 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 23:09:36 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 23:09:36 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 23:18:42 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 23:18:42 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 23:18:48 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 23:18:48 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideExistencias.php(3): TableData->get('vista_existenci...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 23:18:57 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 23:18:57 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideExistencias.php(3): TableData->get('vista_existenci...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[14-Dec-2020 23:19:02 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[14-Dec-2020 23:19:02 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentas.php(3): TableData->get('vista_ventas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 01:19:14 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 01:19:14 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideControlStock.php(3): TableData->get('vista_controlst...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 01:28:06 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 01:28:06 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:40:20 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:40:20 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:40:46 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:40:46 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:40:48 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:40:48 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentas.php(3): TableData->get('vista_ventas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:41:00 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:41:00 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentas.php(3): TableData->get('vista_ventas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:41:10 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:41:10 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideCategorias.php(3): TableData->get('categorias', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:41:14 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:41:14 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentas.php(3): TableData->get('vista_ventas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:41:52 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:41:52 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentasProductos.php(3): TableData->get('productos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:42:01 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:42:01 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentasProductos.php(3): TableData->get('productos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:43:00 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:43:00 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:43:10 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:43:10 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentas.php(3): TableData->get('vista_ventas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:44:08 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:44:08 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideExistencias.php(3): TableData->get('vista_existenci...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:44:14 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:44:14 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:44:32 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:44:32 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:44:49 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:44:49 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:44:58 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:44:58 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideColores.php(3): TableData->get('vista_colores', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:45:48 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:45:48 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:48:23 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:48:23 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:49:57 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:49:57 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:51:53 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:51:53 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:56:22 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:56:22 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 17:59:47 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 17:59:47 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:02:11 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:02:11 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:02:17 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:02:17 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:03:18 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:03:18 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:03:53 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:03:53 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:16:00 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:16:00 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentas.php(3): TableData->get('vista_ventas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:16:06 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:16:06 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentasProductos.php(3): TableData->get('productos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:16:14 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:16:14 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentasProductos.php(3): TableData->get('productos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:16:16 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:16:16 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentasProductos.php(3): TableData->get('productos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:16:35 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:16:35 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentasProductos.php(3): TableData->get('productos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:17:44 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:17:44 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentas.php(3): TableData->get('vista_ventas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:17:57 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:17:57 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentas.php(3): TableData->get('vista_ventas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:18:30 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:18:30 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:20:35 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:20:35 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:20:48 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:20:48 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:23:06 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:23:06 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:23:12 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:23:12 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideVentas.php(3): TableData->get('vista_ventas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:23:59 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:23:59 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideCompras.php(3): TableData->get('vista_compras', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:34:19 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:34:19 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideExistencias.php(3): TableData->get('vista_existenci...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:34:33 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:34:33 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideTalles.php(3): TableData->get('vista_talles', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:34:40 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:34:40 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:34:57 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:34:57 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:35:11 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:35:11 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideGeneros.php(3): TableData->get('generos', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:36:03 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:36:03 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideExistencias.php(3): TableData->get('vista_existenci...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:36:29 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:36:29 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideExistencias.php(3): TableData->get('vista_existenci...', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:42:15 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:42:15 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 18:42:45 Europe/Madrid] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'bd_infodp_tienda1'@'localhost' (using password: YES)
+[15-Dec-2020 18:42:45 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:75
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideFlujoCajas.php(3): TableData->get('flujodecajas', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 75
+[15-Dec-2020 19:14:05 Europe/Madrid] PHP Warning:  include_once(../../ORM/Conexion.php): failed to open stream: No such file or directory in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 15
+[15-Dec-2020 19:14:05 Europe/Madrid] PHP Warning:  include_once(): Failed opening '../../ORM/Conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 15
+[15-Dec-2020 19:14:05 Europe/Madrid] PHP Fatal error:  Uncaught Error: Class 'Conexion' not found in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:17
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php(129): TableData->__construct()
+#1 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideGeneros.php(2): require('/home/inventa3/...')
+#2 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 17
+[15-Dec-2020 19:16:28 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:98
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideColores.php(3): TableData->get('vista_colores', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 98
+[15-Dec-2020 19:16:40 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:98
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideColores.php(3): TableData->get('vista_colores', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 98
+[15-Dec-2020 19:17:12 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:98
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideColores.php(3): TableData->get('vista_colores', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 98
+[15-Dec-2020 19:19:29 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php:98
+Stack trace:
+#0 /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serversideColores.php(3): TableData->get('vista_colores', 'id', Array)
+#1 {main}
+  thrown in /home/inventa3/public_html/infodpTienda/libreria/ServerSide/serverside.php on line 98
