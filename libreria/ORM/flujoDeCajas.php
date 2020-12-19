@@ -23,14 +23,14 @@ switch($tipoFlujo)
 	case 0: //es un egreso de dinero			
 		//luego resto el valor al ultimo de la fila
 		$saldoActual = $ultimoSaldo - abs($importeFlujo);				
-		$consulta = "INSERT INTO flujodecajas (fecha, descripcion, entrada, salida, saldoActual) VALUES('$fecha', '$descripcionFlujo', '', '$importeFlujo', '$saldoActual') ";			
+		$consulta = "INSERT INTO flujodecajas (fecha, descripcion, entrada, salida, saldoActual) VALUES('$fecha', '$descripcionFlujo', '0', '$importeFlujo', '$saldoActual') ";
 		$resultado = $conexion->prepare($consulta);
 		$resultado->execute();
 		break;
 
 	case 1: //es un ingreso de dinero			
 		$saldoActual = $ultimoSaldo + abs($importeFlujo);			
-		$consulta = "INSERT INTO flujodecajas (fecha, descripcion, entrada, salida, saldoActual) VALUES('$fecha', '$descripcionFlujo', '$importeFlujo', '', '$saldoActual' ) ";
+		$consulta = "INSERT INTO flujodecajas (fecha, descripcion, entrada, salida, saldoActual) VALUES('$fecha', '$descripcionFlujo', '$importeFlujo', '0', '$saldoActual' ) ";
 		$resultado = $conexion->prepare($consulta);
 		$resultado->execute();                
 		break;    
